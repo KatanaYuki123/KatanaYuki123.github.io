@@ -180,16 +180,7 @@ body {
     background-color: var(--p-beta);
 }
 
-#container #card .badge #badge_1 {
-    width: 23px;
-    height: 23px;
-    background-image: url('../img/dev_badge.svg');
-    background-size: cover;
-    margin: auto;
-    cursor: pointer;
-}
-
-#container #card .badge #badge_2{
+#container #card .badge #badge_1{
     width: 23px;
     height: 23px;
     background-image: url('../img/hypersquad_badge.svg');
@@ -198,7 +189,7 @@ body {
     cursor: pointer;
 }
 
-#container #card .badge #badge_3{
+#container #card .badge #badge_2{
     width: 23px;
     height: 23px;
     background-image: url('../img/nitro_badge.svg');
