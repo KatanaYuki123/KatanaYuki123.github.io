@@ -198,6 +198,15 @@ body {
     cursor: pointer;
 }
 
+#container #card .badge #badge_3{
+    width: 23px;
+    height: 23px;
+    background-image: url('../img/boost_badge.svg');
+    background-size: cover;
+    margin: auto;
+    cursor: pointer;
+}
+
 /* #container #card .badge #badge_4{
     width: 23px;
     height: 23px;

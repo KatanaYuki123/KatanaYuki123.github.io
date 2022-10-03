@@ -55,6 +55,12 @@ hover('badge_2', function () {
     classManager('badge_tooltip_2', 'show', 'remove');
 });
 
+hover('badge_3', function () {
+    classManager('badge_tooltip_3', 'show');
+}, function () {
+    classManager('badge_tooltip_3', 'show', 'remove');
+});
+
 // hover('badge_4', function () {
 //     classManager('badge_tooltip_4', 'show');
 // }, function () {
